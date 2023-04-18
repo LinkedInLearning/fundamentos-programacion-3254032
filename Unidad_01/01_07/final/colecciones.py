@@ -32,4 +32,4 @@ montanas = {
     'Suramericana': 'Aconcagua',
 }
 
-print(peaks['Pacifico'])
+print(montanas['Pacifico'])
