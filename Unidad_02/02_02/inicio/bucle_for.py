@@ -1,4 +1,4 @@
-spices = [
+ingredientes = [
     'sal',
     'pimienta',
     'cebollino',
