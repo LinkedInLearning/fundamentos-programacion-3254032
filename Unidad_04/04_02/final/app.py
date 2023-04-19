@@ -5,7 +5,7 @@ nota = 'Ganadora Premio Novel de la Paz'
 primer_nombre_cap = primer_nombre.capitalize()
 segundo_nombre_cap = segundo_nombre.capitalize()
 premio_ubicacion = nota.find('Premio')
-premio_texto = nota[7:]
+premio_texto = nota[16:]
 
 print(primer_nombre_cap)
 print(segundo_nombre_cap)
