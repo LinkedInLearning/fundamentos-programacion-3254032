@@ -3,7 +3,7 @@ def recomendacion_planta(cuidado):
         print('suculenta')
     elif cuidado == 'medio':
         print('pothos')
-    elif cuidado == 'alto':
+    elif cuidado == 'medio':
         print('orquídea')
 
 recomendacion('bajo')
