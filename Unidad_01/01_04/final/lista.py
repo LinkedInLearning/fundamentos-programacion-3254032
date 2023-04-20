@@ -3,11 +3,11 @@
 # ciudad3 = 'Madrid'
 # ciudad4 = 'Buenos Aires'
 
-cuidades = [
+ciudades = [
     'San José', 
     'Ciudad de México', 
     'Madrid', 
     'Buenos Aires',
 ]
 
-print(cuidades[1])
+print(ciudades[1])

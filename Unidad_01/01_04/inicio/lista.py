@@ -3,7 +3,7 @@
 # ciudad3 = 'Madrid'
 # ciudad4 = 'Buenos Aires'
 
-cuidades = [
+ciudades = [
     'San José', 
     'Ciudad de México', 
     'Madrid', 

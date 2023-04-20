@@ -1,6 +1,6 @@
 primer_nombre = 'rigoberta'
 segundo_nombre = 'menchú'
-nota = 'Ganadora Premio Novel de la Paz'
+nota = 'Ganadora Premio Nobel de la Paz'
 
 primer_nombre_cap = primer_nombre.capitalize()
 segundo_nombre_cap = segundo_nombre.capitalize()
