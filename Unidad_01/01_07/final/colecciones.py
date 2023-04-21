@@ -15,7 +15,7 @@ print(estrellas[3])
 
 # Montañas más altas en cada placa tectónica:
 # Africana = 'Kilimanjaro'
-# Antarctica = 'Macizo Vinson'
+# Antartica = 'Macizo Vinson'
 # Indoaustraliana = 'Monte Jaya'
 # Euroasiatica = 'Everest'
 # Norteamerica = 'Monte Denali'
@@ -24,7 +24,7 @@ print(estrellas[3])
 
 montanas = {
     'Africana': 'Kilimanjaro',
-    'Antarctica': 'Macizo Vinson',
+    'Antartica': 'Macizo Vinson',
     'Indoaustraliana': 'Monte Jaya',
     'Euroasiatica': 'Everest',
     'Norteamerica': 'Monte Denali',
