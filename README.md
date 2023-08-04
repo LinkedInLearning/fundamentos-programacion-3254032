@@ -1,7 +1,7 @@
 # Fundamentos de la programación: Más allá de lo básico
 Este es el repositorio del curso de LinkedIn Learning `Fundamentos de la programación: Más allá de lo básico`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://github.com/LinkedInLearning/fundamentos-programacion-3254032/assets/71371373/b184caa0-9121-4075-8423-25ec886e76b9)
+![Course][lil-thumbnail-url]
  
 Continúa tu viaje por la programación profundizando en los conceptos básicos, las prácticas y la terminología de la programación. En este contenido formativo ves más allá de lo básico, utilizando Python para abordar una variedad de conceptos y habilidades intermedias y avanzadas que puedes añadir a tu repertorio de técnicas de programación. A lo largo del curso aprenderás la creación y el trabajo con colecciones y bucles, la combinación y manipulación de cadenas y el uso de código externo, todos ellos conceptos fundamentales independientemente del lenguaje de programación con el que acabes trabajando. Repasa varios procesos esenciales, como la elección de un estilo de código y la depuración. Además, profundiza en algunos conceptos más avanzados como la gestión de memoria y el multihilo.
 
@@ -25,7 +25,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/fundamentos-de-la-programacion-mas-alla-de-lo-basico/ampliando-tu-conocimiento-de-los-fundamentos-de-programacion
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-
-
-[1]: # (End of ES-Instruction ###############################################################################################)
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGFTwAtVTuUKQ/learning-public-crop_675_1200/0/1688016525526?e=2147483647&v=beta&t=VNfmAcRLdLGtdNDwB1-SvXdwgE65iob0hSk9tQTgmYs
